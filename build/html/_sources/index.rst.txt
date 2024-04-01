@@ -10,6 +10,7 @@ Welcome to Nwhemdocs's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   introduction/introduction
 
 
 Indices and tables
